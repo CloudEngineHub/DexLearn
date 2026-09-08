@@ -1,12 +1,11 @@
+# News (September 2026):
+
+Our follow-up work [KPGrasp [CORL 2026]](https://arxiv.org/pdf/2606.09314) provides a much better (i.e., simple yet scalable) learning framework for dexterous grasp generation, although we are still not sure whether we would open-source it in the near future.
+
 # DexLearn
 
 Learning-based grasp synthesis baselines (e.g., diffusion model and normalizing flow) for dexterous hands, used in [BODex (ICRA 2025)](https://pku-epic.github.io/BODex/) and [Dexonomy (RSS 2025)](https://pku-epic.github.io/Dexonomy/)
 
-
-## TODO list
-
-- [x] Support BODex and Dexonomy datasets
-- [x] Release grasp type classifier for Dexonomy
 
 ## Installation
 ```bash
