@@ -1,6 +1,6 @@
-# News (September 2026):
+# News (October 2026):
 
-Our follow-up work [KPGrasp [CORL 2026]](https://arxiv.org/pdf/2606.09314) provides a much better (i.e., simple yet scalable) learning framework for dexterous grasp generation, although we are still not sure whether we would open-source it in the near future.
+Our follow-up work [KPGrasp [CORL 2026 Spotlight]](https://arxiv.org/pdf/2606.09314) provides a much better (i.e., simple yet scalable) learning framework for dexterous grasp generation, and the code has been released in [KPGrasp github](https://github.com/Yuansen-Huang/KPGrasp). 
 
 # DexLearn
 
